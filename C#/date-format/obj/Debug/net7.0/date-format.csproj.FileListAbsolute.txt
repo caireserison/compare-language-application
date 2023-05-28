@@ -1,0 +1,15 @@
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\date-format\bin\Debug\net7.0\date-format.exe
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\date-format\bin\Debug\net7.0\date-format.deps.json
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\date-format\bin\Debug\net7.0\date-format.runtimeconfig.json
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\date-format\bin\Debug\net7.0\date-format.dll
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\date-format\bin\Debug\net7.0\date-format.pdb
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\date-format\obj\Debug\net7.0\date-format.csproj.AssemblyReference.cache
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\date-format\obj\Debug\net7.0\date-format.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\date-format\obj\Debug\net7.0\date-format.AssemblyInfoInputs.cache
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\date-format\obj\Debug\net7.0\date-format.AssemblyInfo.cs
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\date-format\obj\Debug\net7.0\date-format.csproj.CoreCompileInputs.cache
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\date-format\obj\Debug\net7.0\date-format.dll
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\date-format\obj\Debug\net7.0\refint\date-format.dll
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\date-format\obj\Debug\net7.0\date-format.pdb
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\date-format\obj\Debug\net7.0\date-format.genruntimeconfig.cache
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\date-format\obj\Debug\net7.0\ref\date-format.dll

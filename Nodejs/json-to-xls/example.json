@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Back to the Future",
+        "releaseYear": "1985",
+        "mainCharacter": "Marty McFly",
+        "genre": "Science fiction"
+    },
+    {
+        "name": "Ferris Bueller's Day Off",
+        "releaseYear": "1986",
+        "mainCharacter": "Matthew Broderick",
+        "genre": "Comedy"
+    }
+]

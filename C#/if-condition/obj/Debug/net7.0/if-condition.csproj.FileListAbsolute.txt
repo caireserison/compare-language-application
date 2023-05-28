@@ -1,0 +1,15 @@
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\if-condition\bin\Debug\net7.0\if-condition.exe
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\if-condition\bin\Debug\net7.0\if-condition.deps.json
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\if-condition\bin\Debug\net7.0\if-condition.runtimeconfig.json
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\if-condition\bin\Debug\net7.0\if-condition.dll
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\if-condition\bin\Debug\net7.0\if-condition.pdb
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\if-condition\obj\Debug\net7.0\if-condition.csproj.AssemblyReference.cache
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\if-condition\obj\Debug\net7.0\if-condition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\if-condition\obj\Debug\net7.0\if-condition.AssemblyInfoInputs.cache
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\if-condition\obj\Debug\net7.0\if-condition.AssemblyInfo.cs
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\if-condition\obj\Debug\net7.0\if-condition.csproj.CoreCompileInputs.cache
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\if-condition\obj\Debug\net7.0\if-condition.dll
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\if-condition\obj\Debug\net7.0\refint\if-condition.dll
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\if-condition\obj\Debug\net7.0\if-condition.pdb
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\if-condition\obj\Debug\net7.0\if-condition.genruntimeconfig.cache
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\if-condition\obj\Debug\net7.0\ref\if-condition.dll

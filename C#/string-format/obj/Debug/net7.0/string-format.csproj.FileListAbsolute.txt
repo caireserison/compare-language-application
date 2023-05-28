@@ -1,0 +1,15 @@
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\string-format\bin\Debug\net7.0\string-format.exe
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\string-format\bin\Debug\net7.0\string-format.deps.json
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\string-format\bin\Debug\net7.0\string-format.runtimeconfig.json
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\string-format\bin\Debug\net7.0\string-format.dll
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\string-format\bin\Debug\net7.0\string-format.pdb
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\string-format\obj\Debug\net7.0\string-format.csproj.AssemblyReference.cache
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\string-format\obj\Debug\net7.0\string-format.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\string-format\obj\Debug\net7.0\string-format.AssemblyInfoInputs.cache
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\string-format\obj\Debug\net7.0\string-format.AssemblyInfo.cs
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\string-format\obj\Debug\net7.0\string-format.csproj.CoreCompileInputs.cache
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\string-format\obj\Debug\net7.0\string-format.dll
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\string-format\obj\Debug\net7.0\refint\string-format.dll
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\string-format\obj\Debug\net7.0\string-format.pdb
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\string-format\obj\Debug\net7.0\string-format.genruntimeconfig.cache
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\string-format\obj\Debug\net7.0\ref\string-format.dll

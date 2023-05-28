@@ -1,0 +1,15 @@
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\loop\bin\Debug\net7.0\loop.exe
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\loop\bin\Debug\net7.0\loop.deps.json
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\loop\bin\Debug\net7.0\loop.runtimeconfig.json
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\loop\bin\Debug\net7.0\loop.dll
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\loop\bin\Debug\net7.0\loop.pdb
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\loop\obj\Debug\net7.0\loop.csproj.AssemblyReference.cache
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\loop\obj\Debug\net7.0\loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\loop\obj\Debug\net7.0\loop.AssemblyInfoInputs.cache
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\loop\obj\Debug\net7.0\loop.AssemblyInfo.cs
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\loop\obj\Debug\net7.0\loop.csproj.CoreCompileInputs.cache
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\loop\obj\Debug\net7.0\loop.dll
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\loop\obj\Debug\net7.0\refint\loop.dll
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\loop\obj\Debug\net7.0\loop.pdb
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\loop\obj\Debug\net7.0\loop.genruntimeconfig.cache
+C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\loop\obj\Debug\net7.0\ref\loop.dll
