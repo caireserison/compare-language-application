@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\if-condition\\if-condition.csproj": {}
+    "C:\\GIT\\compare-language-application\\C#\\if-condition\\if-condition.csproj": {}
   },
   "projects": {
-    "c:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\if-condition\\if-condition.csproj": {
+    "C:\\GIT\\compare-language-application\\C#\\if-condition\\if-condition.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\if-condition\\if-condition.csproj",
+        "projectUniqueName": "C:\\GIT\\compare-language-application\\C#\\if-condition\\if-condition.csproj",
         "projectName": "if-condition",
-        "projectPath": "c:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\if-condition\\if-condition.csproj",
+        "projectPath": "C:\\GIT\\compare-language-application\\C#\\if-condition\\if-condition.csproj",
         "packagesPath": "C:\\Users\\eriso\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\if-condition\\obj\\",
+        "outputPath": "C:\\GIT\\compare-language-application\\C#\\if-condition\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eriso\\AppData\\Roaming\\NuGet\\NuGet.Config"

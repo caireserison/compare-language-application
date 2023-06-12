@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\if-condition\\if-condition.csproj",
+      "projectUniqueName": "c:\\GIT\\compare-language-application\\C#\\if-condition\\if-condition.csproj",
       "projectName": "if-condition",
-      "projectPath": "C:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\if-condition\\if-condition.csproj",
+      "projectPath": "c:\\GIT\\compare-language-application\\C#\\if-condition\\if-condition.csproj",
       "packagesPath": "C:\\Users\\eriso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\if-condition\\obj\\",
+      "outputPath": "c:\\GIT\\compare-language-application\\C#\\if-condition\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eriso\\AppData\\Roaming\\NuGet\\NuGet.Config"

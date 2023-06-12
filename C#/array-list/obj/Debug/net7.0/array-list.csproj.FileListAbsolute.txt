@@ -13,3 +13,18 @@ C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\array-list\obj\Debug\net7
 C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\array-list\obj\Debug\net7.0\array-list.pdb
 C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\array-list\obj\Debug\net7.0\array-list.genruntimeconfig.cache
 C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\array-list\obj\Debug\net7.0\ref\array-list.dll
+C:\GIT\compare-language-application\C#\array-list\bin\Debug\net7.0\array-list.exe
+C:\GIT\compare-language-application\C#\array-list\bin\Debug\net7.0\array-list.deps.json
+C:\GIT\compare-language-application\C#\array-list\bin\Debug\net7.0\array-list.runtimeconfig.json
+C:\GIT\compare-language-application\C#\array-list\bin\Debug\net7.0\array-list.dll
+C:\GIT\compare-language-application\C#\array-list\bin\Debug\net7.0\array-list.pdb
+C:\GIT\compare-language-application\C#\array-list\obj\Debug\net7.0\array-list.csproj.AssemblyReference.cache
+C:\GIT\compare-language-application\C#\array-list\obj\Debug\net7.0\array-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\compare-language-application\C#\array-list\obj\Debug\net7.0\array-list.AssemblyInfoInputs.cache
+C:\GIT\compare-language-application\C#\array-list\obj\Debug\net7.0\array-list.AssemblyInfo.cs
+C:\GIT\compare-language-application\C#\array-list\obj\Debug\net7.0\array-list.csproj.CoreCompileInputs.cache
+C:\GIT\compare-language-application\C#\array-list\obj\Debug\net7.0\array-list.dll
+C:\GIT\compare-language-application\C#\array-list\obj\Debug\net7.0\refint\array-list.dll
+C:\GIT\compare-language-application\C#\array-list\obj\Debug\net7.0\array-list.pdb
+C:\GIT\compare-language-application\C#\array-list\obj\Debug\net7.0\array-list.genruntimeconfig.cache
+C:\GIT\compare-language-application\C#\array-list\obj\Debug\net7.0\ref\array-list.dll

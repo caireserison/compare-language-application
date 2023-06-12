@@ -20,15 +20,15 @@ public class Main {
 
         if (monicaApartment == 20 && (monicaApartment > joeyApartment || monicaApartment < neighborApartment)) {
             System.out.println(
-                    "Monica's apartment equals 20 and is greater than Joey apartment or less than other neighbor apartment.");
+                    "O número do apartamento da Monica é igual a 20, é maior que o número do Joey e menor que o vizinho ao lado.");
         }
 
         if (!(neighborApartment == 21)) {
-            System.out.println("Neighbor apartment is different from 21.");
+            System.out.println("O apartamento do vizinho é diferente de 21.");
         } else if (joeyApartment != 19) {
-            System.out.println("Joey's apartment is different from 19.");
+            System.out.println("O apartamento do Joey é diferente de 19.");
         } else {
-            System.out.println("Oh. My. God.");
+            System.out.println("OH. MEU. DEUS.");
         }
 
         if (phoebeSong.equals("Smelly Cat")) {
@@ -37,7 +37,7 @@ public class Main {
 
         if (friends.contains("Chandler")) {
             var chandlerIndex = friends.indexOf("Chandler");
-            System.out.println("Hi, I'm " + friends.get(chandlerIndex) + ". I make jokes when I'm uncomfortable.");
+            System.out.println("Oi, Eu sou o " + friends.get(chandlerIndex) + ". Eu faço piadas quando estou desconfortável.");
         }
     }
 }

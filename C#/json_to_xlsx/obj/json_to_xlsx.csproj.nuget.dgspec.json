@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\json_to_xlsx\\json_to_xlsx.csproj": {}
+    "C:\\GIT\\compare-language-application\\C#\\json_to_xlsx\\json_to_xlsx.csproj": {}
   },
   "projects": {
-    "c:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\json_to_xlsx\\json_to_xlsx.csproj": {
+    "C:\\GIT\\compare-language-application\\C#\\json_to_xlsx\\json_to_xlsx.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\json_to_xlsx\\json_to_xlsx.csproj",
+        "projectUniqueName": "C:\\GIT\\compare-language-application\\C#\\json_to_xlsx\\json_to_xlsx.csproj",
         "projectName": "json_to_xlsx",
-        "projectPath": "c:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\json_to_xlsx\\json_to_xlsx.csproj",
+        "projectPath": "C:\\GIT\\compare-language-application\\C#\\json_to_xlsx\\json_to_xlsx.csproj",
         "packagesPath": "C:\\Users\\eriso\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\json_to_xlsx\\obj\\",
+        "outputPath": "C:\\GIT\\compare-language-application\\C#\\json_to_xlsx\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eriso\\AppData\\Roaming\\NuGet\\NuGet.Config"

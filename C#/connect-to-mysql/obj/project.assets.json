@@ -1711,11 +1711,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\connect-to-mysql\\connect-to-mysql.csproj",
+      "projectUniqueName": "c:\\GIT\\compare-language-application\\C#\\connect-to-mysql\\connect-to-mysql.csproj",
       "projectName": "connect-to-mysql",
-      "projectPath": "C:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\connect-to-mysql\\connect-to-mysql.csproj",
+      "projectPath": "c:\\GIT\\compare-language-application\\C#\\connect-to-mysql\\connect-to-mysql.csproj",
       "packagesPath": "C:\\Users\\eriso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\connect-to-mysql\\obj\\",
+      "outputPath": "c:\\GIT\\compare-language-application\\C#\\connect-to-mysql\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eriso\\AppData\\Roaming\\NuGet\\NuGet.Config"

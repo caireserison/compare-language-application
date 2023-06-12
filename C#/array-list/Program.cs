@@ -1,20 +1,20 @@
-﻿var pets = new List<String>{"dog", "cat", "rabbit", "dog", "turtle", "parrot", "cat", "lizard", "snake"};
+﻿var pets = new List<String>{"cachorro", "gato", "coelho", "cachorro", "tartaruga", "papagaio", "gato", "lagarto", "cobra"};
 
 // Lista criada e sua quantidade de itens
 Console.WriteLine(string.Join(", ", pets));
-Console.WriteLine("This list has " + pets.Count + " pets.");
+Console.WriteLine("Essa lista possui " + pets.Count + " animais.");
 
 // Removendo registros duplicados
 var petsWithoutDuplicates = pets.Distinct().ToList();
 Console.WriteLine(string.Join(", ", petsWithoutDuplicates));
 
 // Identificando e alterando item da lista
-var indexChange = petsWithoutDuplicates.IndexOf("parrot");
-petsWithoutDuplicates[indexChange] = "fish";
+var indexChange = petsWithoutDuplicates.IndexOf("papagaio");
+petsWithoutDuplicates[indexChange] = "peixe";
 Console.WriteLine(string.Join(", ", petsWithoutDuplicates));
 
 // Removendo e adicionando item
-petsWithoutDuplicates.Remove("snake");
+petsWithoutDuplicates.Remove("cobra");
 petsWithoutDuplicates.Add("hamster");
 Console.WriteLine(string.Join(", ", petsWithoutDuplicates));
 

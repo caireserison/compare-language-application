@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\date-format\\date-format.csproj": {}
+    "c:\\GIT\\compare-language-application\\C#\\date-format\\date-format.csproj": {}
   },
   "projects": {
-    "c:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\date-format\\date-format.csproj": {
+    "c:\\GIT\\compare-language-application\\C#\\date-format\\date-format.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\date-format\\date-format.csproj",
+        "projectUniqueName": "c:\\GIT\\compare-language-application\\C#\\date-format\\date-format.csproj",
         "projectName": "date-format",
-        "projectPath": "c:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\date-format\\date-format.csproj",
+        "projectPath": "c:\\GIT\\compare-language-application\\C#\\date-format\\date-format.csproj",
         "packagesPath": "C:\\Users\\eriso\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\date-format\\obj\\",
+        "outputPath": "c:\\GIT\\compare-language-application\\C#\\date-format\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eriso\\AppData\\Roaming\\NuGet\\NuGet.Config"

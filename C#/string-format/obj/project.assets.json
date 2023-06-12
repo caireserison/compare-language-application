@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\string-format\\string-format.csproj",
+      "projectUniqueName": "c:\\GIT\\compare-language-application\\C#\\string-format\\string-format.csproj",
       "projectName": "string-format",
-      "projectPath": "C:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\string-format\\string-format.csproj",
+      "projectPath": "c:\\GIT\\compare-language-application\\C#\\string-format\\string-format.csproj",
       "packagesPath": "C:\\Users\\eriso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\string-format\\obj\\",
+      "outputPath": "c:\\GIT\\compare-language-application\\C#\\string-format\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eriso\\AppData\\Roaming\\NuGet\\NuGet.Config"

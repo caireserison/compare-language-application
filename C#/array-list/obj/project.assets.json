@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\array-list\\array-list.csproj",
+      "projectUniqueName": "C:\\GIT\\compare-language-application\\C#\\array-list\\array-list.csproj",
       "projectName": "array-list",
-      "projectPath": "C:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\array-list\\array-list.csproj",
+      "projectPath": "C:\\GIT\\compare-language-application\\C#\\array-list\\array-list.csproj",
       "packagesPath": "C:\\Users\\eriso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\array-list\\obj\\",
+      "outputPath": "C:\\GIT\\compare-language-application\\C#\\array-list\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eriso\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -5,17 +5,17 @@ const phoebeSong = 'Smelly Cat'
 const friends = ['Ross', 'Joey', 'Chandler', 'Rachel', 'Monica']
 
 if (monicaApartment === 20 && (monicaApartment > joeyApartment || monicaApartment < neighborApartment)) {
-  console.log('Monica\'s apartment equals 20 and is greater than Joey apartment or less than other neighbor apartment.')
+  console.log('O número do apartamento da Monica é igual a 20, é maior que o número do Joey e menor que o vizinho ao lado.')
 }
 
 if (!(neighborApartment === 21)) {
-  console.log('Neighbor apartment is different from 21.')
+  console.log('O apartamento do vizinho é diferente de 21.')
 }
 else if (joeyApartment != 19) {
-  console.log('Joey\'s apartment is different from 19.')
+  console.log('O apartamento do Joey é diferente de 19.')
 }
 else {
-  console.log('Oh. My. God.')
+  console.log('OH. MEU. DEUS.')
 }
 
 if (phoebeSong === 'Smelly Cat') {
@@ -24,5 +24,5 @@ if (phoebeSong === 'Smelly Cat') {
 
 if (friends.includes('Chandler')) {
   let chandlerIndex = friends.findIndex(item => item === 'Chandler');
-  console.log('Hi, I\'m ' + friends[chandlerIndex] + '. I make jokes when I\'m uncomfortable.')
+  console.log('Oi, Eu sou o ' + friends[chandlerIndex] + '. Eu faço piadas quando estou desconfortável.')
 }

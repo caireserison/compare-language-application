@@ -1,0 +1,15 @@
+C:\GIT\compare-language-application\C#\math-operations\bin\Debug\net7.0\math-operations.exe
+C:\GIT\compare-language-application\C#\math-operations\bin\Debug\net7.0\math-operations.deps.json
+C:\GIT\compare-language-application\C#\math-operations\bin\Debug\net7.0\math-operations.runtimeconfig.json
+C:\GIT\compare-language-application\C#\math-operations\bin\Debug\net7.0\math-operations.dll
+C:\GIT\compare-language-application\C#\math-operations\bin\Debug\net7.0\math-operations.pdb
+C:\GIT\compare-language-application\C#\math-operations\obj\Debug\net7.0\math-operations.csproj.AssemblyReference.cache
+C:\GIT\compare-language-application\C#\math-operations\obj\Debug\net7.0\math-operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\compare-language-application\C#\math-operations\obj\Debug\net7.0\math-operations.AssemblyInfoInputs.cache
+C:\GIT\compare-language-application\C#\math-operations\obj\Debug\net7.0\math-operations.AssemblyInfo.cs
+C:\GIT\compare-language-application\C#\math-operations\obj\Debug\net7.0\math-operations.csproj.CoreCompileInputs.cache
+C:\GIT\compare-language-application\C#\math-operations\obj\Debug\net7.0\math-operations.dll
+C:\GIT\compare-language-application\C#\math-operations\obj\Debug\net7.0\refint\math-operations.dll
+C:\GIT\compare-language-application\C#\math-operations\obj\Debug\net7.0\math-operations.pdb
+C:\GIT\compare-language-application\C#\math-operations\obj\Debug\net7.0\math-operations.genruntimeconfig.cache
+C:\GIT\compare-language-application\C#\math-operations\obj\Debug\net7.0\ref\math-operations.dll

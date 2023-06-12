@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\date-format\\date-format.csproj",
+      "projectUniqueName": "c:\\GIT\\compare-language-application\\C#\\date-format\\date-format.csproj",
       "projectName": "date-format",
-      "projectPath": "C:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\date-format\\date-format.csproj",
+      "projectPath": "c:\\GIT\\compare-language-application\\C#\\date-format\\date-format.csproj",
       "packagesPath": "C:\\Users\\eriso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\date-format\\obj\\",
+      "outputPath": "c:\\GIT\\compare-language-application\\C#\\date-format\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eriso\\AppData\\Roaming\\NuGet\\NuGet.Config"

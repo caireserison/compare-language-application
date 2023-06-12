@@ -1,14 +1,14 @@
 [
     {
-        "name": "Back to the Future",
+        "name": "De volta para o futuro",
         "releaseYear": "1985",
         "mainCharacter": "Marty McFly",
-        "genre": "Science fiction"
+        "genre": "Ficção Científica"
     },
     {
-        "name": "Ferris Bueller's Day Off",
+        "name": "Vivendo a vida adoidado",
         "releaseYear": "1986",
         "mainCharacter": "Matthew Broderick",
-        "genre": "Comedy"
+        "genre": "Comédia"
     }
 ]

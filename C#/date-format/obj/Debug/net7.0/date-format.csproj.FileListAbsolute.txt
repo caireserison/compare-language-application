@@ -13,3 +13,18 @@ C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\date-format\obj\Debug\net
 C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\date-format\obj\Debug\net7.0\date-format.pdb
 C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\date-format\obj\Debug\net7.0\date-format.genruntimeconfig.cache
 C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\date-format\obj\Debug\net7.0\ref\date-format.dll
+C:\GIT\compare-language-application\C#\date-format\bin\Debug\net7.0\date-format.exe
+C:\GIT\compare-language-application\C#\date-format\bin\Debug\net7.0\date-format.deps.json
+C:\GIT\compare-language-application\C#\date-format\bin\Debug\net7.0\date-format.runtimeconfig.json
+C:\GIT\compare-language-application\C#\date-format\bin\Debug\net7.0\date-format.dll
+C:\GIT\compare-language-application\C#\date-format\bin\Debug\net7.0\date-format.pdb
+C:\GIT\compare-language-application\C#\date-format\obj\Debug\net7.0\date-format.csproj.AssemblyReference.cache
+C:\GIT\compare-language-application\C#\date-format\obj\Debug\net7.0\date-format.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\compare-language-application\C#\date-format\obj\Debug\net7.0\date-format.AssemblyInfoInputs.cache
+C:\GIT\compare-language-application\C#\date-format\obj\Debug\net7.0\date-format.AssemblyInfo.cs
+C:\GIT\compare-language-application\C#\date-format\obj\Debug\net7.0\date-format.csproj.CoreCompileInputs.cache
+C:\GIT\compare-language-application\C#\date-format\obj\Debug\net7.0\date-format.dll
+C:\GIT\compare-language-application\C#\date-format\obj\Debug\net7.0\refint\date-format.dll
+C:\GIT\compare-language-application\C#\date-format\obj\Debug\net7.0\date-format.pdb
+C:\GIT\compare-language-application\C#\date-format\obj\Debug\net7.0\date-format.genruntimeconfig.cache
+C:\GIT\compare-language-application\C#\date-format\obj\Debug\net7.0\ref\date-format.dll

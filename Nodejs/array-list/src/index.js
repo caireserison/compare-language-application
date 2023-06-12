@@ -1,8 +1,8 @@
-let pets = ['dog', 'cat', 'rabbit', 'dog', 'turtle', 'parrot', 'cat', 'lizard', 'snake']
+let pets = ['cachorro', 'gato', 'coelho', 'cachorro', 'tartaruga', 'papagaio', 'gato', 'lagarto', 'cobra']
 
 // Lista criada e sua quantidade de itens
 console.log(pets)
-console.log('This list has ' + pets.length + ' pets.')
+console.log('Essa lista possui ' + pets.length + ' animais.')
 
 // Removendo registros duplicados
 let petsWithoutDuplicates = pets.filter(function(index, i) {
@@ -11,12 +11,12 @@ let petsWithoutDuplicates = pets.filter(function(index, i) {
 console.log(petsWithoutDuplicates);
 
 // Identificando e alterando item da lista
-const indexChange = petsWithoutDuplicates.indexOf('parrot')
-petsWithoutDuplicates[indexChange] = 'fish'
+const indexChange = petsWithoutDuplicates.indexOf('papagaio')
+petsWithoutDuplicates[indexChange] = 'peixe'
 console.log(petsWithoutDuplicates)
 
 // Removendo e adicionando item
-const snakeIndex = petsWithoutDuplicates.indexOf('snake')
+const snakeIndex = petsWithoutDuplicates.indexOf('cobra')
 petsWithoutDuplicates.splice(snakeIndex, 1)
 petsWithoutDuplicates.push('hamster')
 console.log(petsWithoutDuplicates)

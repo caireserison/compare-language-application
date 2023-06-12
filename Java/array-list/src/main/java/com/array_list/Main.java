@@ -7,20 +7,20 @@ import java.util.HashSet;
 public class Main {
     public static void main(String[] args) {
         var pets = new ArrayList<String>() {{
-            add("dog");
-            add("cat");
-            add("rabbit");
-            add("dog");
-            add("turtle");
-            add("parrot");
-            add("cat");
-            add("lizard");
-            add("snake");
+            add("cachorro");
+            add("gato");
+            add("coelho");
+            add("cachorro");
+            add("tartaruga");
+            add("papagaio");
+            add("gato");
+            add("lagarto");
+            add("cobra");
         }};
 
         // Lista criada e sua quantidade de itens
         System.out.println(pets);
-        System.out.println("This list has " + pets.size() + " pets.");
+        System.out.println("Essa lista tem " + pets.size() + " animais.");
 
         // Removendo registros duplicados
         var hashsetPets = new HashSet<String>(pets);
@@ -28,12 +28,12 @@ public class Main {
         System.out.println(petsWithoutDuplicates);
 
         // Identificando e alterando item da lista
-        var indexChange = petsWithoutDuplicates.indexOf("parrot");
-        petsWithoutDuplicates.set(indexChange, "fish");
+        var indexChange = petsWithoutDuplicates.indexOf("papagaio");
+        petsWithoutDuplicates.set(indexChange, "peixe");
         System.out.println(petsWithoutDuplicates);
 
         // Removendo e adicionando item
-        petsWithoutDuplicates.remove("snake");
+        petsWithoutDuplicates.remove("cobra");
         petsWithoutDuplicates.add("hamster");
         System.out.println(petsWithoutDuplicates);
 
