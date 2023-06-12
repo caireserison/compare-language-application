@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\loop\\loop.csproj": {}
+    "C:\\GIT\\compare-language-application\\C#\\loop\\loop.csproj": {}
   },
   "projects": {
-    "c:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\loop\\loop.csproj": {
+    "C:\\GIT\\compare-language-application\\C#\\loop\\loop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\loop\\loop.csproj",
+        "projectUniqueName": "C:\\GIT\\compare-language-application\\C#\\loop\\loop.csproj",
         "projectName": "loop",
-        "projectPath": "c:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\loop\\loop.csproj",
+        "projectPath": "C:\\GIT\\compare-language-application\\C#\\loop\\loop.csproj",
         "packagesPath": "C:\\Users\\eriso\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\loop\\obj\\",
+        "outputPath": "C:\\GIT\\compare-language-application\\C#\\loop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eriso\\AppData\\Roaming\\NuGet\\NuGet.Config"

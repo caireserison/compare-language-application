@@ -1,33 +1,33 @@
-﻿var itens = new List<String>{"Green Shell", "Red Shell", "Lightning", "Banana", "Starman", "Mushroom", "Spiny Shell"};
+﻿var itens = new List<String>{"Casco Verde", "Casco Vermelho", "Raio", "Casca de Banana", "Estrela", "Cogumelo", "Casco Azul"};
 var position = 8;
 
 // for
 for (int lap = 1; lap <= 3; lap++)
 {
-    Console.WriteLine(lap + " lap");
+    Console.WriteLine(lap + "ª volta");
 }
 
 // foreach
 foreach (var item in itens)
 {
-    Console.WriteLine("You got a " + item);
+    Console.WriteLine("Você pegou " + item);
 }
 
 // while
 while (position > 1)
 {
     position--;
-    Console.WriteLine("Overtook 1 kart. You're in position " + position);
+    Console.WriteLine("Você ultrapassou 1 kart. Você está na " + position + "ª posição.");
 }
 
 // do while
 do
 {
     position++;
-    Console.WriteLine("You've been hit. Lost one position. You are in position " + position);
+    Console.WriteLine("Você foi atingido. Perdeu uma posição. você está na " + position + "ª posição.");
 } while (position < 8);
 
 if (position == 8) 
 {
-    Console.WriteLine("You were last in the race.");
+    Console.WriteLine("Você foi o último na corrida.");
 }

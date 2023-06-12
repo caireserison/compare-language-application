@@ -11,22 +11,22 @@ const DayWeek = {
 let day = DayWeek.SUNDAY
 switch (day) {
     case DayWeek.MONDAY:
-        console.log('Thai food / Mee Krob and chicken satay with extra peanut sauce')
+        console.log('Comida Tailandesa / Frango com molho de amendoim extra')
         break;
     case DayWeek.TUESDAY:
-        console.log('Burger')
+        console.log('Hamburger')
         break;
     case DayWeek.WEDNESDAY:
-        console.log('Games')
+        console.log('Dia de jogos')
         break;
     case DayWeek.THURSDAY:
-        console.log('Anything Can Happen Thursday')
+        console.log('Quinta onde tudo pode acontecer')
         break;
     case DayWeek.FRIDAY:
-        console.log('Chinese food')
+        console.log('Comida chinesa')
         break;
     case DayWeek.SATURDAY:
-        console.log('Laundry night')
+        console.log('Noite da lavanderia')
         break;
     default:
         console.log('Bazinga!')

@@ -7,22 +7,22 @@
         switch (day)
         {
             case DaysWeek.MONDAY:
-                Console.WriteLine("Thai food / Mee Krob and chicken satay with extra peanut sauce");
+                Console.WriteLine("Comida Tailandesa / Frango com molho de amendoim extra");
                 break;
             case DaysWeek.TUESDAY:
-                Console.WriteLine("Burger");
+                Console.WriteLine("Hamburger");
                 break;
             case DaysWeek.WEDNESDAY:
-                Console.WriteLine("Games");
+                Console.WriteLine("Dia de jogos");
                 break;
             case DaysWeek.THURSDAY:
-                Console.WriteLine("Anything Can Happen Thursday");
+                Console.WriteLine("Quinta onde tudo pode acontecer");
                 break;
             case DaysWeek.FRIDAY:
-                Console.WriteLine("Chinese food");
+                Console.WriteLine("Comida chinesa");
                 break;
             case DaysWeek.SATURDAY:
-                Console.WriteLine("Laundry night");
+                Console.WriteLine("Noite da lavanderia");
                 break;
             default:
                 Console.WriteLine("Bazinga!");

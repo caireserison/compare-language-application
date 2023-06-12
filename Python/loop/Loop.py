@@ -1,25 +1,25 @@
-itens = ['Green Shell', 'Red Shell', 'Lightning', 'Banana', 'Starman', 'Mushroom', 'Spiny Shell']
+itens = ['Casco Verde', 'Casco Vermelho', 'Raio', 'Banana', 'Estrela', 'Cogumelo', 'Casco Azul']
 position = 8
 
 # for
 for lap in range(1,4):
-    print(str(lap) + ' lap')
+    print(str(lap) + 'ª volta')
 
 # foreach
 for item in itens:
-    print('You got a ' + item)
+    print('Você pegou ' + item)
 
 # while
 while position > 1:
     position -= 1
-    print('Overtook 1 kart. You\'re in position ' + str(position))
+    print('Você ultrapassou 1 kart. Você está na ' + str(position) + 'ª posição.')
 
 # do while (fake)
 while True:
     position += 1
-    print('You\'ve been hit. Lost 1 position. You\'re in position ' + str(position))
-    if not position < 7:
+    print('Você foi atingido. Perdeu uma posição. você está na ' + str(position) + 'ª posição.')
+    if not position < 8:
         break;
 
 if position == 8:
-    print('You were last in the race.')
+    print('Você foi o último na corrida.')

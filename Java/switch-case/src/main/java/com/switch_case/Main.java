@@ -6,22 +6,22 @@ public class Main {
 
         switch (day) {
             case MONDAY:
-                System.out.println("Thai food / Mee Krob and chicken satay with extra peanut sauce");
+                System.out.println("Comida Tailandesa / Frango com molho de amendoim extra");
                 break;
             case TUESDAY:
-                System.out.println("Burger");
+                System.out.println("Hamburger");
                 break;
             case WEDNESDAY:
-                System.out.println("Games");
+                System.out.println("Dia de jogos");
                 break;
             case THURSDAY:
-                System.out.println("Anything Can Happen Thursday");
+                System.out.println("Quinta onde tudo pode acontecer");
                 break;
             case FRIDAY:
-                System.out.println("Chinese food");
+                System.out.println("Comida chinesa");
                 break;
             case SATURDAY:
-                System.out.println("Laundry night");
+                System.out.println("Noite da lavanderia");
                 break;
             default:
                 System.out.println("Bazinga!");

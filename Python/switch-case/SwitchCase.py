@@ -10,22 +10,22 @@ class DayWeek(enum.Enum):
 
 day = DayWeek.SUNDAY
 if (day == DayWeek.MONDAY):
-    print('Thai food / Mee Krob and chicken satay with extra peanut sauce')
+    print('Comida Tailandesa / Frango com molho de amendoim extra')
     pass
 elif (day == DayWeek.TUESDAY):
-    print('Burger')
+    print('Hamburger')
     pass
 elif (day == DayWeek.WEDNESDAY):
-    print('Games')
+    print('Dia de jogos')
     pass
 elif (day == DayWeek.THURSDAY):
-    print('Anything Can Happen Thursday')
+    print('Quinta onde tudo pode acontecer')
     pass
 elif (day == DayWeek.FRIDAY):
-    print('Chinese food')
+    print('Comida chinesa')
     pass
 elif (day == DayWeek.SATURDAY):
-    print('Laundry night')
+    print('Noite da lavanderia')
     pass
 else:
     print('Bazinga!')

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\loop\\loop.csproj",
+      "projectUniqueName": "c:\\GIT\\compare-language-application\\C#\\loop\\loop.csproj",
       "projectName": "loop",
-      "projectPath": "C:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\loop\\loop.csproj",
+      "projectPath": "c:\\GIT\\compare-language-application\\C#\\loop\\loop.csproj",
       "packagesPath": "C:\\Users\\eriso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\loop\\obj\\",
+      "outputPath": "c:\\GIT\\compare-language-application\\C#\\loop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eriso\\AppData\\Roaming\\NuGet\\NuGet.Config"

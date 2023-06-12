@@ -13,3 +13,18 @@ C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\loop\obj\Debug\net7.0\ref
 C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\loop\obj\Debug\net7.0\loop.pdb
 C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\loop\obj\Debug\net7.0\loop.genruntimeconfig.cache
 C:\Users\eriso\OneDrive\Documentos\Compare Projects\C#\loop\obj\Debug\net7.0\ref\loop.dll
+C:\GIT\compare-language-application\C#\loop\bin\Debug\net7.0\loop.exe
+C:\GIT\compare-language-application\C#\loop\bin\Debug\net7.0\loop.deps.json
+C:\GIT\compare-language-application\C#\loop\bin\Debug\net7.0\loop.runtimeconfig.json
+C:\GIT\compare-language-application\C#\loop\bin\Debug\net7.0\loop.dll
+C:\GIT\compare-language-application\C#\loop\bin\Debug\net7.0\loop.pdb
+C:\GIT\compare-language-application\C#\loop\obj\Debug\net7.0\loop.csproj.AssemblyReference.cache
+C:\GIT\compare-language-application\C#\loop\obj\Debug\net7.0\loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\compare-language-application\C#\loop\obj\Debug\net7.0\loop.AssemblyInfoInputs.cache
+C:\GIT\compare-language-application\C#\loop\obj\Debug\net7.0\loop.AssemblyInfo.cs
+C:\GIT\compare-language-application\C#\loop\obj\Debug\net7.0\loop.csproj.CoreCompileInputs.cache
+C:\GIT\compare-language-application\C#\loop\obj\Debug\net7.0\loop.dll
+C:\GIT\compare-language-application\C#\loop\obj\Debug\net7.0\refint\loop.dll
+C:\GIT\compare-language-application\C#\loop\obj\Debug\net7.0\loop.pdb
+C:\GIT\compare-language-application\C#\loop\obj\Debug\net7.0\loop.genruntimeconfig.cache
+C:\GIT\compare-language-application\C#\loop\obj\Debug\net7.0\ref\loop.dll

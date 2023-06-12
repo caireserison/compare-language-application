@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.switch_case</groupId>
-    <artifactId>switch-case</artifactId>
+    <artifactId>switch_case</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\switch-case\\switch-case.csproj",
+      "projectUniqueName": "c:\\GIT\\compare-language-application\\C#\\switch-case\\switch-case.csproj",
       "projectName": "switch-case",
-      "projectPath": "C:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\switch-case\\switch-case.csproj",
+      "projectPath": "c:\\GIT\\compare-language-application\\C#\\switch-case\\switch-case.csproj",
       "packagesPath": "C:\\Users\\eriso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eriso\\OneDrive\\Documentos\\Compare Projects\\C#\\switch-case\\obj\\",
+      "outputPath": "c:\\GIT\\compare-language-application\\C#\\switch-case\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eriso\\AppData\\Roaming\\NuGet\\NuGet.Config"
