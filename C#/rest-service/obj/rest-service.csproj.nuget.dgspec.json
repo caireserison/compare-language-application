@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\GIT\\compare-language-application\\C#\\rest-service\\rest-service.csproj": {}
+    "C:\\GIT\\compare-language-application\\C#\\rest-service\\rest-service.csproj": {}
   },
   "projects": {
-    "c:\\GIT\\compare-language-application\\C#\\rest-service\\rest-service.csproj": {
+    "C:\\GIT\\compare-language-application\\C#\\rest-service\\rest-service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\GIT\\compare-language-application\\C#\\rest-service\\rest-service.csproj",
+        "projectUniqueName": "C:\\GIT\\compare-language-application\\C#\\rest-service\\rest-service.csproj",
         "projectName": "rest-service",
-        "projectPath": "c:\\GIT\\compare-language-application\\C#\\rest-service\\rest-service.csproj",
+        "projectPath": "C:\\GIT\\compare-language-application\\C#\\rest-service\\rest-service.csproj",
         "packagesPath": "C:\\Users\\eriso\\.nuget\\packages\\",
-        "outputPath": "c:\\GIT\\compare-language-application\\C#\\rest-service\\obj\\",
+        "outputPath": "C:\\GIT\\compare-language-application\\C#\\rest-service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eriso\\AppData\\Roaming\\NuGet\\NuGet.Config"

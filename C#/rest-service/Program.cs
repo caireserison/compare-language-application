@@ -1,5 +1,17 @@
 var builder = WebApplication.CreateBuilder(args);
 
+// Lista Default
+AllGames.listGames = new List<Games>() {
+    new Games("Atari", "Atari", "1983"), 
+    new Games("NES", "Nintendo", "1983"), 
+    new Games("Master System", "Sega", "1987"), 
+    new Games("Game Boy", "Nintendo", "1989"), 
+    new Games("Mega Drive", "Sega", "1988"), 
+    new Games("Super Nintendo", "Nintendo", "1990"), 
+    new Games("Playstation", "Sony", "1994"), 
+    new Games("Nintendo 64", "Nintendo", "1996")
+};
+
 // Add services to the container.
 
 builder.Services.AddControllers();
