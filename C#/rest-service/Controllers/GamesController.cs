@@ -16,17 +16,17 @@ public class GamesController : ControllerBase
     [HttpGet("games")]
     public IActionResult GetAll()
     {
-        _logger.LogInformation("Buscou lista de vídeo games.");
+        _logger.LogInformation("Buscando lista de vídeo games.");
         return Ok(AllGames.listGames);
     }
 
     [HttpGet("games/owner/{owner}")]
     public IActionResult GetGame(string owner)
     {
-        _logger.LogInformation("Buscou lista de vídeo games.");
+        _logger.LogInformation("Buscando vídeo games do mesmo proprietário.");
         var games = AllGames.listGames.Where(x => x.Owner == owner).ToList();
         if (games == null) {
-            return NotFound("Vídeo game não encontrado na lista para essa empresa.");
+            return NotFound("Vídeo game não encontrado na lista para esse proripetário.");
         } else {
             return Ok(games);
         }
@@ -35,7 +35,7 @@ public class GamesController : ControllerBase
     [HttpPost("games")]
     public IActionResult PostGame(Games games)
     {
-        _logger.LogInformation("Acrescentando um vídeo games.");
+        _logger.LogInformation("Acrescentando um vídeo game.");
         AllGames.listGames.Add(games);
         return Created("/", AllGames.listGames);
     }
@@ -43,7 +43,7 @@ public class GamesController : ControllerBase
     [HttpDelete("games/{name}")]
     public IActionResult DeleteGame(string name)
     {
-        _logger.LogInformation("Removendo um vídeo games.");
+        _logger.LogInformation("Removendo um vídeo game.");
         var game = AllGames.listGames.FirstOrDefault(x => x.Name == name);
         if (game == null) {
             return NotFound("Vídeo game não encontrado na lista com esse nome.");
