@@ -1,0 +1,17 @@
+C:\GIT\compare-language-application\C#\json-handling\bin\Debug\net7.0\json-handling.exe
+C:\GIT\compare-language-application\C#\json-handling\bin\Debug\net7.0\json-handling.deps.json
+C:\GIT\compare-language-application\C#\json-handling\bin\Debug\net7.0\json-handling.runtimeconfig.json
+C:\GIT\compare-language-application\C#\json-handling\bin\Debug\net7.0\json-handling.dll
+C:\GIT\compare-language-application\C#\json-handling\bin\Debug\net7.0\json-handling.pdb
+C:\GIT\compare-language-application\C#\json-handling\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\GIT\compare-language-application\C#\json-handling\obj\Debug\net7.0\json-handling.csproj.AssemblyReference.cache
+C:\GIT\compare-language-application\C#\json-handling\obj\Debug\net7.0\json-handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\compare-language-application\C#\json-handling\obj\Debug\net7.0\json-handling.AssemblyInfoInputs.cache
+C:\GIT\compare-language-application\C#\json-handling\obj\Debug\net7.0\json-handling.AssemblyInfo.cs
+C:\GIT\compare-language-application\C#\json-handling\obj\Debug\net7.0\json-handling.csproj.CoreCompileInputs.cache
+C:\GIT\compare-language-application\C#\json-handling\obj\Debug\net7.0\json-handling.csproj.CopyComplete
+C:\GIT\compare-language-application\C#\json-handling\obj\Debug\net7.0\json-handling.dll
+C:\GIT\compare-language-application\C#\json-handling\obj\Debug\net7.0\refint\json-handling.dll
+C:\GIT\compare-language-application\C#\json-handling\obj\Debug\net7.0\json-handling.pdb
+C:\GIT\compare-language-application\C#\json-handling\obj\Debug\net7.0\json-handling.genruntimeconfig.cache
+C:\GIT\compare-language-application\C#\json-handling\obj\Debug\net7.0\ref\json-handling.dll

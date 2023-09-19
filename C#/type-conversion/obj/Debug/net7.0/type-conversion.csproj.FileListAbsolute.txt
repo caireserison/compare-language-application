@@ -1,0 +1,15 @@
+C:\GIT\compare-language-application\C#\type-conversion\bin\Debug\net7.0\type-conversion.exe
+C:\GIT\compare-language-application\C#\type-conversion\bin\Debug\net7.0\type-conversion.deps.json
+C:\GIT\compare-language-application\C#\type-conversion\bin\Debug\net7.0\type-conversion.runtimeconfig.json
+C:\GIT\compare-language-application\C#\type-conversion\bin\Debug\net7.0\type-conversion.dll
+C:\GIT\compare-language-application\C#\type-conversion\bin\Debug\net7.0\type-conversion.pdb
+C:\GIT\compare-language-application\C#\type-conversion\obj\Debug\net7.0\type-conversion.csproj.AssemblyReference.cache
+C:\GIT\compare-language-application\C#\type-conversion\obj\Debug\net7.0\type-conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\compare-language-application\C#\type-conversion\obj\Debug\net7.0\type-conversion.AssemblyInfoInputs.cache
+C:\GIT\compare-language-application\C#\type-conversion\obj\Debug\net7.0\type-conversion.AssemblyInfo.cs
+C:\GIT\compare-language-application\C#\type-conversion\obj\Debug\net7.0\type-conversion.csproj.CoreCompileInputs.cache
+C:\GIT\compare-language-application\C#\type-conversion\obj\Debug\net7.0\type-conversion.dll
+C:\GIT\compare-language-application\C#\type-conversion\obj\Debug\net7.0\refint\type-conversion.dll
+C:\GIT\compare-language-application\C#\type-conversion\obj\Debug\net7.0\type-conversion.pdb
+C:\GIT\compare-language-application\C#\type-conversion\obj\Debug\net7.0\type-conversion.genruntimeconfig.cache
+C:\GIT\compare-language-application\C#\type-conversion\obj\Debug\net7.0\ref\type-conversion.dll
