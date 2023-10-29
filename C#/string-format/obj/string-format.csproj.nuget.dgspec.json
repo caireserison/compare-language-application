@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\GIT\\compare-language-application\\C#\\string-format\\string-format.csproj": {}
+    "C:\\GIT\\compare-language-application\\C#\\string-format\\string-format.csproj": {}
   },
   "projects": {
-    "c:\\GIT\\compare-language-application\\C#\\string-format\\string-format.csproj": {
+    "C:\\GIT\\compare-language-application\\C#\\string-format\\string-format.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\GIT\\compare-language-application\\C#\\string-format\\string-format.csproj",
+        "projectUniqueName": "C:\\GIT\\compare-language-application\\C#\\string-format\\string-format.csproj",
         "projectName": "string-format",
-        "projectPath": "c:\\GIT\\compare-language-application\\C#\\string-format\\string-format.csproj",
+        "projectPath": "C:\\GIT\\compare-language-application\\C#\\string-format\\string-format.csproj",
         "packagesPath": "C:\\Users\\eriso\\.nuget\\packages\\",
-        "outputPath": "c:\\GIT\\compare-language-application\\C#\\string-format\\obj\\",
+        "outputPath": "C:\\GIT\\compare-language-application\\C#\\string-format\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eriso\\AppData\\Roaming\\NuGet\\NuGet.Config"

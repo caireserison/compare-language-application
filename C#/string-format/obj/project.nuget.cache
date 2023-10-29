@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MlvgW8rAVbFXV5KfpqqlJIiUuoVIcxP0egc04cclyjrGRaGRoMdfFOpCfRV1n1iscWensFzZBnlzV03gxDo3fQ==",
+  "dgSpecHash": "ea1AKqZfq0xwGyj3LbuUfEuwBbUo7soF82L9or1fCx73+/WcgwR5vL57VfDvvBYWUt2c//9lEp4v7RtlUeyl2g==",
   "success": true,
-  "projectFilePath": "c:\\GIT\\compare-language-application\\C#\\string-format\\string-format.csproj",
+  "projectFilePath": "C:\\GIT\\compare-language-application\\C#\\string-format\\string-format.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
