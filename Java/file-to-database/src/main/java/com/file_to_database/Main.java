@@ -1,6 +1,7 @@
 package com.file_to_database;
 
 import java.io.File;
+import java.net.URISyntaxException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.text.SimpleDateFormat;
@@ -13,12 +14,19 @@ import java.util.Arrays;
 import java.util.List;
 
 public class Main {
-    public static void main(String[] args) throws IOException, SQLException, ClassNotFoundException {
+    public static void main(String[] args) throws IOException, SQLException, ClassNotFoundException, URISyntaxException {
         System.out.println("Início da aplicação: " + new SimpleDateFormat("HH:mm:ss.SSS").format(new Date()));
 
         System.out.println("Lendo arquivo CSV");
-        var path = Paths.get(".").toAbsolutePath().getParent().getParent().getParent();
-        var filePath = Paths.get(path.toAbsolutePath() + "\\_files\\file-to-database\\songs.csv").toAbsolutePath().toString();
+        //var path = Paths.get(".").toAbsolutePath().getParent().getParent().getParent();
+        //System.out.println(path);
+        //var filePath = Paths.get(path.toAbsolutePath() + "\\_files\\file-to-database\\songs_short.csv").toAbsolutePath().toString();
+
+        String jarPath = Main.class.getProtectionDomain().getCodeSource().getLocation().toURI().getPath();
+        String directory = new File(jarPath).getParent();
+        String filePath = directory + File.separator + "songs_short.csv";
+
+        System.out.println(filePath);
         BufferedReader reader = new BufferedReader(new FileReader(filePath));
 
         System.out.println("Conexão com banco de dados PostgreSQL");

@@ -18,3 +18,4 @@ C:\GIT\compare-language-application\C#\file-to-database\obj\Debug\net7.0\refint\
 C:\GIT\compare-language-application\C#\file-to-database\obj\Debug\net7.0\file-to-database.pdb
 C:\GIT\compare-language-application\C#\file-to-database\obj\Debug\net7.0\file-to-database.genruntimeconfig.cache
 C:\GIT\compare-language-application\C#\file-to-database\obj\Debug\net7.0\ref\file-to-database.dll
+C:\GIT\compare-language-application\C#\file-to-database\obj\Debug\net7.0\file-to-database.sourcelink.json

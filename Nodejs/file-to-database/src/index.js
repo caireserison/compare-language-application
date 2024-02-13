@@ -10,8 +10,8 @@ const conn = new Pool({
   host: 'localhost',
   database: 'postgres',
   password: 'locaires',
-  port: 5432,
-  max: 5 // Limitando o máximo de conexões no pool
+  port: 5432
+  //,max: 5 // Limitando o máximo de conexões no pool
 });
 
 console.log('Lendo e percorrendo arquivo csv');
