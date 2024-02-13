@@ -8,7 +8,7 @@ Console.WriteLine("Início da aplicação: " + DateTime.Now.ToString("HH:mm:ss.f
 
 var connectionString = "Host=localhost;Port=5432;User Id=postgres;Password=locaires;Database=postgres";
 Console.WriteLine("Lendo arquivo csv");
-using (var reader = new StreamReader("../../_files/file-to-database/songs.csv")) 
+using (var reader = new StreamReader("../../_files/file-to-database/songs_short.csv")) 
 {
     Console.WriteLine("Conexão com banco de dados PostgreSQL");
     using (var connection = new NpgsqlConnection(connectionString))
