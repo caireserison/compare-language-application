@@ -18,13 +18,12 @@ public class Main {
         System.out.println("Início da aplicação: " + new SimpleDateFormat("HH:mm:ss.SSS").format(new Date()));
 
         System.out.println("Lendo arquivo CSV");
-        //var path = Paths.get(".").toAbsolutePath().getParent().getParent().getParent();
-        //System.out.println(path);
-        //var filePath = Paths.get(path.toAbsolutePath() + "\\_files\\file-to-database\\songs_short.csv").toAbsolutePath().toString();
+        var path = Paths.get(".").toAbsolutePath().getParent().getParent().getParent();
+        var filePath = Paths.get(path.toAbsolutePath() + "\\_files\\file-to-database\\songs.csv").toAbsolutePath().toString();
 
-        String jarPath = Main.class.getProtectionDomain().getCodeSource().getLocation().toURI().getPath();
-        String directory = new File(jarPath).getParent();
-        String filePath = directory + File.separator + "songs_short.csv";
+        //String jarPath = Main.class.getProtectionDomain().getCodeSource().getLocation().toURI().getPath();
+        //String directory = new File(jarPath).getParent();
+        //String filePath = directory + File.separator + "songs_short.csv";
 
         System.out.println(filePath);
         BufferedReader reader = new BufferedReader(new FileReader(filePath));
