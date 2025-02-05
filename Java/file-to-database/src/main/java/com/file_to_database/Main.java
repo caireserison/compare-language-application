@@ -1,20 +1,15 @@
 package com.file_to_database;
 
-import java.io.File;
-import java.net.URISyntaxException;
-import java.nio.file.Path;
-import java.nio.file.Paths;
-import java.text.SimpleDateFormat;
-import java.util.Date;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+import java.nio.file.Paths;
 import java.sql.*;
-import java.util.Arrays;
-import java.util.List;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 public class Main {
-    public static void main(String[] args) throws IOException, SQLException, ClassNotFoundException, URISyntaxException {
+    public static void main(String[] args) throws IOException, SQLException {
         System.out.println("Início da aplicação: " + new SimpleDateFormat("HH:mm:ss.SSS").format(new Date()));
 
         System.out.println("Lendo arquivo CSV");
@@ -39,7 +34,6 @@ public class Main {
         String line;
         while ((line = reader.readLine()) != null) {
             String[] data = line.split(",");
-            List<String> columns = Arrays.asList(data);
             // Verificando gênero
             String genre = data[0].trim();
             if (genre.equals("Rock")) {
@@ -59,7 +53,7 @@ public class Main {
         System.out.println("Buscando a quantidade de linhas na tabela");
         String countQuery = "SELECT COUNT(*) FROM rock_songs";
         ResultSet result = stmt.executeQuery(countQuery);
-        if (((ResultSet) result).next()) {
+        if ((result).next()) {
             int rowCount = result.getInt(1);
             System.out.println("A tabela possui " + rowCount + " registro(s) de músicas do gênero Rock.");
         }

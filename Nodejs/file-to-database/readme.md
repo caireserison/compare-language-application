@@ -3,7 +3,7 @@ https://nodejs.org/en/download
 
 ###### Instalar dependências necessárias:
 ` npm install pg `
-` npm install fast-csv `
+` npm install csv-parser `
 
 ###### Execução:
 ` node .\src\index.js `

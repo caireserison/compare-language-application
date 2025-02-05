@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\GIT\\compare-language-application\\C#\\file-to-database\\file-to-database.csproj": {}
+    "C:\\GIT\\compare-language-application\\C#\\file-to-database\\file-to-database.csproj": {}
   },
   "projects": {
-    "c:\\GIT\\compare-language-application\\C#\\file-to-database\\file-to-database.csproj": {
+    "C:\\GIT\\compare-language-application\\C#\\file-to-database\\file-to-database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\GIT\\compare-language-application\\C#\\file-to-database\\file-to-database.csproj",
+        "projectUniqueName": "C:\\GIT\\compare-language-application\\C#\\file-to-database\\file-to-database.csproj",
         "projectName": "file-to-database",
-        "projectPath": "c:\\GIT\\compare-language-application\\C#\\file-to-database\\file-to-database.csproj",
+        "projectPath": "C:\\GIT\\compare-language-application\\C#\\file-to-database\\file-to-database.csproj",
         "packagesPath": "C:\\Users\\eriso\\.nuget\\packages\\",
-        "outputPath": "c:\\GIT\\compare-language-application\\C#\\file-to-database\\obj\\",
+        "outputPath": "C:\\GIT\\compare-language-application\\C#\\file-to-database\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eriso\\AppData\\Roaming\\NuGet\\NuGet.Config"
