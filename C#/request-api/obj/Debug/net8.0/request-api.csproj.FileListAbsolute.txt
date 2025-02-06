@@ -1,0 +1,15 @@
+C:\GIT\compare-language-application\C#\request-api\bin\Debug\net8.0\request-api.exe
+C:\GIT\compare-language-application\C#\request-api\bin\Debug\net8.0\request-api.deps.json
+C:\GIT\compare-language-application\C#\request-api\bin\Debug\net8.0\request-api.runtimeconfig.json
+C:\GIT\compare-language-application\C#\request-api\bin\Debug\net8.0\request-api.dll
+C:\GIT\compare-language-application\C#\request-api\bin\Debug\net8.0\request-api.pdb
+C:\GIT\compare-language-application\C#\request-api\obj\Debug\net8.0\request-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\compare-language-application\C#\request-api\obj\Debug\net8.0\request-api.AssemblyInfoInputs.cache
+C:\GIT\compare-language-application\C#\request-api\obj\Debug\net8.0\request-api.AssemblyInfo.cs
+C:\GIT\compare-language-application\C#\request-api\obj\Debug\net8.0\request-api.csproj.CoreCompileInputs.cache
+C:\GIT\compare-language-application\C#\request-api\obj\Debug\net8.0\request-api.sourcelink.json
+C:\GIT\compare-language-application\C#\request-api\obj\Debug\net8.0\request-api.dll
+C:\GIT\compare-language-application\C#\request-api\obj\Debug\net8.0\refint\request-api.dll
+C:\GIT\compare-language-application\C#\request-api\obj\Debug\net8.0\request-api.pdb
+C:\GIT\compare-language-application\C#\request-api\obj\Debug\net8.0\request-api.genruntimeconfig.cache
+C:\GIT\compare-language-application\C#\request-api\obj\Debug\net8.0\ref\request-api.dll

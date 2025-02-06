@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zd4u4POeKRLB86s189boUdmWKsGtfSG9yPqzrQD4TQBMJqTT03ZAcPJMqYM9MlvAUfzq55ZySlZq5jaBVsouNQ==",
+  "dgSpecHash": "PARS8xuTMHpdzUYDUOfsXPEQotL4yG6a2L1SKHg5SDLfyFfFHvAPkNimjoLihCGXbuXvWzIV/SAloEmvJ4dFtg==",
   "success": true,
   "projectFilePath": "C:\\GIT\\compare-language-application\\C#\\json_to_xlsx\\json_to_xlsx.csproj",
   "expectedPackageFiles": [
@@ -23,7 +23,11 @@
     "C:\\Users\\eriso\\.nuget\\packages\\system.security.cryptography.pkcs\\7.0.0\\system.security.cryptography.pkcs.7.0.0.nupkg.sha512",
     "C:\\Users\\eriso\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512",
     "C:\\Users\\eriso\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\eriso\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+    "C:\\Users\\eriso\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\eriso\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\eriso\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\eriso\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\eriso\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
   ],
   "logs": []
 }
