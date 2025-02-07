@@ -2,8 +2,7 @@
 
 // Requisição GET
 using HttpClient client = new HttpClient();
-string url = "https://swapi.dev/api/films";
-HttpResponseMessage response = await client.GetAsync(url);
+HttpResponseMessage response = await client.GetAsync("https://swapi.dev/api/films");
 response.EnsureSuccessStatusCode();
 
 // Tratamento de JSON
