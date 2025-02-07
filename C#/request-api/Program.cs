@@ -14,6 +14,4 @@ JsonElement results = root.GetProperty("results");
 // Gerando lista de filmes
 Console.WriteLine("Lista de filmes Star Wars:");
 foreach (JsonElement film in results.EnumerateArray())
-{
     Console.WriteLine(film.GetProperty("title").GetString());
-}
